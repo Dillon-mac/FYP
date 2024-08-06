@@ -4,5 +4,6 @@ Built using MATLAB, it displays a GUI to the user and allows them to play digita
 
 The video below is a demo of the project in action.
 
-https://github.com/user-attachments/assets/d0fb678d-b2a8-44a3-93aa-f9a4cd6500a9
+
+https://github.com/user-attachments/assets/20f05061-2e24-4821-8753-58f9ca60c1b5
 
