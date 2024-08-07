@@ -1,4 +1,4 @@
-Interactive Synthesizer
+# Interactive Synthesizer
 
 Built using MATLAB, it displays a GUI to the user and allows them to play digitally synthesized notes on a keyboard along with carrying out a selection of programmed functions and sound effects.
 
